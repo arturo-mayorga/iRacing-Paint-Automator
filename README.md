@@ -37,7 +37,7 @@ gimp-2.10 --version
 1. Open `paint_template.xcf` with GIMP
 2. Start the file monitoring and export process:
 ```bash
- ./monitor.sh 
+ ./start.sh 
    ```
 2.  The script will monitor the specified files and trigger the export process when changes are detected.
 3.  Open the car model for the car that you want to paint
